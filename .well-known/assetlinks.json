@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.funpaysmartbot",
+        "sha256_cert_fingerprints": ["27:B9:8E:8E:9C:F3:4B:73:DA:CD:2C:32:76:C9:A0:BC:40:C0:5A:76:5D:B2:A2:5D:9B:73:76:44:2B:FE:5B:88"]
+      }
+    }]
