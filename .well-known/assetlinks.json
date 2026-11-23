@@ -6,3 +6,11 @@
         "sha256_cert_fingerprints": ["27:B9:8E:8E:9C:F3:4B:73:DA:CD:2C:32:76:C9:A0:BC:40:C0:5A:76:5D:B2:A2:5D:9B:73:76:44:2B:FE:5B:88"]
       }
     }]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.funpaysmartbot.pers",
+        "sha256_cert_fingerprints": ["4B:6D:7B:6A:BA:42:DB:61:56:BB:E4:7B:4F:A1:DF:AA:FE:1A:50:EC:BB:74:83:36:24:9E:1F:8A:92:2D:27:C9"]
+      }
+    }]
